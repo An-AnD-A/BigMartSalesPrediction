@@ -1,0 +1,11 @@
+Outlet_Identifier,Outlet_Establishment_Year_Unique_Count,Outlet_Establishment_Year_Unique_Value,Outlet_Size_Unique_Count,Outlet_Size_Unique_Value,Outlet_Location_Type_Unique_Count,Outlet_Location_Type_Unique_Value,Outlet_Type_Unique_Count,Outlet_Type_Unique_Value
+OUT010,1,[1998],0,[nan],1,['Tier 3'],1,['Grocery Store']
+OUT013,1,[1987],1,['High'],1,['Tier 3'],1,['Supermarket Type1']
+OUT017,1,[2007],0,[nan],1,['Tier 2'],1,['Supermarket Type1']
+OUT018,1,[2009],1,['Medium'],1,['Tier 3'],1,['Supermarket Type2']
+OUT019,1,[1985],1,['Small'],1,['Tier 1'],1,['Grocery Store']
+OUT027,1,[1985],1,['Medium'],1,['Tier 3'],1,['Supermarket Type3']
+OUT035,1,[2004],1,['Small'],1,['Tier 2'],1,['Supermarket Type1']
+OUT045,1,[2002],0,[nan],1,['Tier 2'],1,['Supermarket Type1']
+OUT046,1,[1997],1,['Small'],1,['Tier 1'],1,['Supermarket Type1']
+OUT049,1,[1999],1,['Medium'],1,['Tier 1'],1,['Supermarket Type1']
