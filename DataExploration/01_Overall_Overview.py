@@ -1,3 +1,7 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from src.helpers.config import train_data_path, test_data_path
 from src.helpers.DataReader import filereader
 
@@ -68,6 +72,3 @@ if __name__ == "__main__":
 
     # Run the main function
     main()
-
-
-

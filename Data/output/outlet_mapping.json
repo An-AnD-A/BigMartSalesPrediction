@@ -1,0 +1,62 @@
+{
+    "OUT049": {
+        "Outlet_Establishment_Year": 1999,
+        "Outlet_Size": "Medium",
+        "Outlet_Location_Type": "Tier 1",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT018": {
+        "Outlet_Establishment_Year": 2009,
+        "Outlet_Size": "Medium",
+        "Outlet_Location_Type": "Tier 3",
+        "Outlet_Type": "Supermarket Type2"
+    },
+    "OUT010": {
+        "Outlet_Establishment_Year": 1998,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 3",
+        "Outlet_Type": "Grocery Store"
+    },
+    "OUT013": {
+        "Outlet_Establishment_Year": 1987,
+        "Outlet_Size": "High",
+        "Outlet_Location_Type": "Tier 3",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT027": {
+        "Outlet_Establishment_Year": 1985,
+        "Outlet_Size": "Medium",
+        "Outlet_Location_Type": "Tier 3",
+        "Outlet_Type": "Supermarket Type3"
+    },
+    "OUT045": {
+        "Outlet_Establishment_Year": 2002,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 2",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT017": {
+        "Outlet_Establishment_Year": 2007,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 2",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT046": {
+        "Outlet_Establishment_Year": 1997,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 1",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT035": {
+        "Outlet_Establishment_Year": 2004,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 2",
+        "Outlet_Type": "Supermarket Type1"
+    },
+    "OUT019": {
+        "Outlet_Establishment_Year": 1985,
+        "Outlet_Size": "Small",
+        "Outlet_Location_Type": "Tier 1",
+        "Outlet_Type": "Grocery Store"
+    }
+}

@@ -16,6 +16,8 @@ data_root = Path.joinpath(get_root_directory(),'Data')
 
 train_data_path = data_root / 'train.csv'
 test_data_path = data_root / 'test.csv'
+
+output_base_path = data_root / 'output'
     
 if __name__ == "__main__":
     # Example usage
