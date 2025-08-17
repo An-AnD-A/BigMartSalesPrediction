@@ -8,3 +8,4 @@ def check_if_nan(value):
         return 'nan'
     else:
         return value
+    

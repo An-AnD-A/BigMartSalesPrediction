@@ -47,6 +47,8 @@ def plot_scatter_plot(df, x_column, y_column, title, label_column=None):
 
     return
 
+
+
 if __name__ == "__main__":
 
     train_df = filereader(train_data_path)
@@ -55,3 +57,5 @@ if __name__ == "__main__":
     plot_frequency_distribution(train_df, 'Item_Type', 'Item Type Frequency Distribution in Train Dataset')
     plot_frequency_distribution(train_df, 'Item_Fat_Content', 'Item Fat Content Frequency Distribution in Train Dataset')
     plot_frequency_distribution(test_df, 'Item_Weight', 'Item Type Frequency Distribution in Test Dataset')
+    plot_scatter_plot(train_df, x_column='Item_MRP', y_column='Item_Outlet_Sales',
+                      title='Item MRP vs Item Outlet Sales in Train Dataset',)
