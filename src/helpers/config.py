@@ -18,6 +18,14 @@ train_data_path = data_root / 'train.csv'
 test_data_path = data_root / 'test.csv'
 
 output_base_path = data_root / 'output'
+
+# Item and Outlet Metadata 
+item_metadata_path = data_root / 'output' / 'item_mapping.json'
+outlet_metadata_path = data_root / 'output' / 'outlet_mapping.json'
+
+# processed data paths
+processed_train_data_path = data_root / 'output' / 'processed_train_data.csv'
+processed_test_data_path = data_root / 'output' / 'processed_test_data.csv'
     
 if __name__ == "__main__":
     # Example usage
@@ -31,3 +39,8 @@ if __name__ == "__main__":
 
     print(f"Train data path: {train_data_path}")
     print(f"Test data path: {test_data_path}")
+
+    print(f"Output base path: {output_base_path}")
+
+    print(f"Item metadata path: {item_metadata_path}")
+    print(f"Outlet metadata path: {outlet_metadata_path}")

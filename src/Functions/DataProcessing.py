@@ -111,7 +111,16 @@ def map_item_fat_content(value):
     else:
         return 'Unknown'
     
+def detect_outliers(df, feature):
+    Q1  = df[feature].quantile(0.25)
+    Q3  = df[feature].quantile(0.75)
+    IQR = Q3 - Q1
+    
+    upper_limit = Q3 + 1.5 * IQR
+    lower_limit = Q1 - 1.5 * IQR
+    return upper_limit, lower_limit    
+    
 
 if __name__ == "__main__":
     # Create item mapping for train dataset
-    create_item_mapping()
+    create_initial_item_mapping()
