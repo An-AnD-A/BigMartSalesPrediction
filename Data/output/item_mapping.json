@@ -132,7 +132,7 @@
     "DRJ59": {
         "Item_Weight": 11.65,
         "Item_Type": "Hard Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDE51": {
         "Item_Weight": 5.925,
@@ -217,7 +217,7 @@
     "FDM39": {
         "Item_Weight": 6.42,
         "Item_Type": "Dairy",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCP05": {
         "Item_Weight": 19.6,
@@ -317,7 +317,7 @@
     "FDC46": {
         "Item_Weight": 17.7,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDH19": {
         "Item_Weight": 19.35,
@@ -357,7 +357,7 @@
     "NCZ18": {
         "Item_Weight": 7.825,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDC29": {
         "Item_Weight": 8.39,
@@ -392,12 +392,12 @@
     "FDN04": {
         "Item_Weight": 11.8,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDV45": {
         "Item_Weight": 16.75,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "NCL18": {
         "Item_Weight": 18.85,
@@ -517,7 +517,7 @@
     "DRE60": {
         "Item_Weight": 9.395,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "DRK49": {
         "Item_Weight": 14.15,
@@ -532,7 +532,7 @@
     "FDS52": {
         "Item_Weight": 8.89,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDW39": {
         "Item_Weight": 6.69,
@@ -582,7 +582,7 @@
     "DRJ13": {
         "Item_Weight": 12.65,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB14": {
         "Item_Weight": 20.25,
@@ -797,7 +797,7 @@
     "FDR47": {
         "Item_Weight": 17.85,
         "Item_Type": "Breads",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB35": {
         "Item_Weight": 12.3,
@@ -912,7 +912,7 @@
     "FDX49": {
         "Item_Weight": 4.615,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "NCM53": {
         "Item_Weight": 18.75,
@@ -952,7 +952,7 @@
     "DRF36": {
         "Item_Weight": 16.1,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDS45": {
         "Item_Weight": 5.175,
@@ -1002,7 +1002,7 @@
     "FDA39": {
         "Item_Weight": 6.32,
         "Item_Type": "Meat",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDY24": {
         "Item_Weight": 4.88,
@@ -1072,7 +1072,7 @@
     "FDX21": {
         "Item_Weight": 7.05,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCR38": {
         "Item_Weight": 17.25,
@@ -1292,7 +1292,7 @@
     "FDF20": {
         "Item_Weight": 12.85,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDH27": {
         "Item_Weight": 7.075,
@@ -1512,7 +1512,7 @@
     "FDM01": {
         "Item_Weight": 7.895,
         "Item_Type": "Breakfast",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDY49": {
         "Item_Weight": 17.2,
@@ -1837,7 +1837,7 @@
     "FDC15": {
         "Item_Weight": 18.1,
         "Item_Type": "Dairy",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDF11": {
         "Item_Weight": 10.195,
@@ -1847,7 +1847,7 @@
     "FDW35": {
         "Item_Weight": 10.6,
         "Item_Type": "Breads",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDB44": {
         "Item_Weight": 6.655,
@@ -1992,7 +1992,7 @@
     "NCE43": {
         "Item_Weight": 12.5,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCC42": {
         "Item_Weight": 15.0,
@@ -2087,7 +2087,7 @@
     "DRK59": {
         "Item_Weight": 8.895,
         "Item_Type": "Hard Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDR21": {
         "Item_Weight": 19.7,
@@ -2177,7 +2177,7 @@
     "FDE53": {
         "Item_Weight": 10.895,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDK24": {
         "Item_Weight": 9.195,
@@ -2242,7 +2242,7 @@
     "NCN18": {
         "Item_Weight": 8.895,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCI29": {
         "Item_Weight": 8.6,
@@ -2347,7 +2347,7 @@
     "FDI14": {
         "Item_Weight": 14.1,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDW50": {
         "Item_Weight": 13.1,
@@ -2527,7 +2527,7 @@
     "FDK48": {
         "Item_Weight": 7.445,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDV58": {
         "Item_Weight": 20.85,
@@ -2567,7 +2567,7 @@
     "FDC11": {
         "Item_Weight": 20.5,
         "Item_Type": "Starchy Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCQ41": {
         "Item_Weight": 14.8,
@@ -2587,7 +2587,7 @@
     "FDH45": {
         "Item_Weight": 15.1,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDX33": {
         "Item_Weight": 9.195,
@@ -2607,7 +2607,7 @@
     "FDP24": {
         "Item_Weight": 20.6,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCQ42": {
         "Item_Weight": 20.35,
@@ -2792,7 +2792,7 @@
     "NCQ05": {
         "Item_Weight": 11.395,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDF44": {
         "Item_Weight": 7.17,
@@ -2967,7 +2967,7 @@
     "FDS28": {
         "Item_Weight": 8.18,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDJ03": {
         "Item_Weight": 12.35,
@@ -3037,7 +3037,7 @@
     "FDY26": {
         "Item_Weight": 20.6,
         "Item_Type": "Dairy",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "DRE13": {
         "Item_Weight": 6.28,
@@ -3062,7 +3062,7 @@
     "FDZ04": {
         "Item_Weight": 9.31,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDU16": {
         "Item_Weight": 19.25,
@@ -3137,7 +3137,7 @@
     "FDE02": {
         "Item_Weight": 8.71,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDR23": {
         "Item_Weight": 15.85,
@@ -3182,7 +3182,7 @@
     "FDN12": {
         "Item_Weight": 15.6,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB09": {
         "Item_Weight": 16.25,
@@ -3492,7 +3492,7 @@
     "FDX16": {
         "Item_Weight": 17.85,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCA05": {
         "Item_Weight": 20.75,
@@ -3555,7 +3555,7 @@
         "Item_Fat_Content": "Low Fat"
     },
     "FDN52": {
-        "Item_Weight": 9.395,
+        "Item_Weight": NaN,
         "Item_Type": "Frozen Foods",
         "Item_Fat_Content": "Regular"
     },
@@ -3612,12 +3612,12 @@
     "FDS35": {
         "Item_Weight": 9.3,
         "Item_Type": "Breads",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDN21": {
         "Item_Weight": 18.6,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCO18": {
         "Item_Weight": 13.15,
@@ -3827,7 +3827,7 @@
     "FDB26": {
         "Item_Weight": 14.0,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDZ25": {
         "Item_Weight": 15.7,
@@ -3852,7 +3852,7 @@
     "FDI45": {
         "Item_Weight": 13.1,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDE17": {
         "Item_Weight": 20.1,
@@ -3927,7 +3927,7 @@
     "FDW08": {
         "Item_Weight": 12.1,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCD54": {
         "Item_Weight": 21.1,
@@ -3997,7 +3997,7 @@
     "NCW42": {
         "Item_Weight": 18.2,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDL13": {
         "Item_Weight": 13.85,
@@ -4062,7 +4062,7 @@
     "NCM06": {
         "Item_Weight": 7.475,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDT46": {
         "Item_Weight": 11.35,
@@ -4157,7 +4157,7 @@
     "DRH59": {
         "Item_Weight": 10.8,
         "Item_Type": "Hard Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "DRA24": {
         "Item_Weight": 19.35,
@@ -4237,7 +4237,7 @@
     "FDR48": {
         "Item_Weight": 11.65,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDY15": {
         "Item_Weight": 18.25,
@@ -4252,7 +4252,7 @@
     "FDW09": {
         "Item_Weight": 13.65,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDV44": {
         "Item_Weight": 8.365,
@@ -4472,7 +4472,7 @@
     "FDN44": {
         "Item_Weight": 13.15,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDD32": {
         "Item_Weight": 17.7,
@@ -4532,7 +4532,7 @@
     "FDE29": {
         "Item_Weight": 8.905,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB37": {
         "Item_Weight": 20.25,
@@ -4602,7 +4602,7 @@
     "FDO50": {
         "Item_Weight": 16.25,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDU20": {
         "Item_Weight": 19.35,
@@ -4677,7 +4677,7 @@
     "FDR55": {
         "Item_Weight": 12.15,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDP04": {
         "Item_Weight": 15.35,
@@ -4752,7 +4752,7 @@
     "FDZ48": {
         "Item_Weight": 17.75,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDZ31": {
         "Item_Weight": 15.35,
@@ -5102,7 +5102,7 @@
     "FDX43": {
         "Item_Weight": 5.655,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDU58": {
         "Item_Weight": 6.61,
@@ -5192,12 +5192,12 @@
     "FDC03": {
         "Item_Weight": 8.575,
         "Item_Type": "Dairy",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDL14": {
         "Item_Weight": 8.115,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDP39": {
         "Item_Weight": 12.65,
@@ -5252,7 +5252,7 @@
     "FDO60": {
         "Item_Weight": 20.0,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCS06": {
         "Item_Weight": 7.935,
@@ -5317,7 +5317,7 @@
     "NCX30": {
         "Item_Weight": 16.7,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDV08": {
         "Item_Weight": 7.35,
@@ -5377,7 +5377,7 @@
     "FDI40": {
         "Item_Weight": 11.5,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDQ11": {
         "Item_Weight": 5.695,
@@ -5427,7 +5427,7 @@
     "FDT24": {
         "Item_Weight": 12.35,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDS11": {
         "Item_Weight": 7.05,
@@ -5507,7 +5507,7 @@
     "NCM26": {
         "Item_Weight": 20.5,
         "Item_Type": "Others",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDK40": {
         "Item_Weight": 7.035,
@@ -5527,7 +5527,7 @@
     "NCG30": {
         "Item_Weight": 20.2,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCH29": {
         "Item_Weight": 5.51,
@@ -5602,7 +5602,7 @@
     "NCA53": {
         "Item_Weight": 11.395,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDS56": {
         "Item_Weight": 5.785,
@@ -5650,7 +5650,7 @@
         "Item_Fat_Content": "Regular"
     },
     "FDK57": {
-        "Item_Weight": 10.195,
+        "Item_Weight": NaN,
         "Item_Type": "Snack Foods",
         "Item_Fat_Content": "Low Fat"
     },
@@ -5697,7 +5697,7 @@
     "FDX01": {
         "Item_Weight": 10.1,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDA48": {
         "Item_Weight": 12.1,
@@ -5722,7 +5722,7 @@
     "FDC20": {
         "Item_Weight": 10.65,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDQ19": {
         "Item_Weight": 7.35,
@@ -5817,7 +5817,7 @@
     "NCA17": {
         "Item_Weight": 20.6,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDG41": {
         "Item_Weight": 8.84,
@@ -5832,7 +5832,7 @@
     "FDQ16": {
         "Item_Weight": 19.7,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDS40": {
         "Item_Weight": 15.35,
@@ -5857,7 +5857,7 @@
     "DRF60": {
         "Item_Weight": 10.8,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDQ36": {
         "Item_Weight": 7.855,
@@ -5867,7 +5867,7 @@
     "FDP34": {
         "Item_Weight": 12.85,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDI02": {
         "Item_Weight": 15.7,
@@ -5947,7 +5947,7 @@
     "FDX58": {
         "Item_Weight": 13.15,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDS04": {
         "Item_Weight": 10.195,
@@ -5997,7 +5997,7 @@
     "NCM30": {
         "Item_Weight": 19.1,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "DRO47": {
         "Item_Weight": 10.195,
@@ -6022,7 +6022,7 @@
     "FDI07": {
         "Item_Weight": 12.35,
         "Item_Type": "Meat",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "DRL47": {
         "Item_Weight": 19.7,
@@ -6047,7 +6047,7 @@
     "FDQ13": {
         "Item_Weight": 11.1,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "DRD25": {
         "Item_Weight": 6.135,
@@ -6072,7 +6072,7 @@
     "FDM12": {
         "Item_Weight": 16.7,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDY47": {
         "Item_Weight": 8.6,
@@ -6107,7 +6107,7 @@
     "NCA30": {
         "Item_Weight": 19.0,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDH41": {
         "Item_Weight": 9.0,
@@ -6192,7 +6192,7 @@
     "FDP56": {
         "Item_Weight": 8.185,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDF26": {
         "Item_Weight": 6.825,
@@ -6202,7 +6202,7 @@
     "FDA11": {
         "Item_Weight": 7.75,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "DRI23": {
         "Item_Weight": 18.85,
@@ -6212,7 +6212,7 @@
     "NCJ05": {
         "Item_Weight": 18.7,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDI21": {
         "Item_Weight": 5.59,
@@ -6227,7 +6227,7 @@
     "FDD02": {
         "Item_Weight": 16.6,
         "Item_Type": "Canned",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDL28": {
         "Item_Weight": 10.0,
@@ -6302,7 +6302,7 @@
     "FDI10": {
         "Item_Weight": 8.51,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDR09": {
         "Item_Weight": 18.25,
@@ -6377,7 +6377,7 @@
     "FDD45": {
         "Item_Weight": 8.615,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDK56": {
         "Item_Weight": 9.695,
@@ -6437,7 +6437,7 @@
     "FDJ16": {
         "Item_Weight": 9.195,
         "Item_Type": "Frozen Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDI22": {
         "Item_Weight": 12.6,
@@ -6597,7 +6597,7 @@
     "FDF33": {
         "Item_Weight": 7.97,
         "Item_Type": "Seafood",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDR31": {
         "Item_Weight": 6.46,
@@ -6777,7 +6777,7 @@
     "FDA57": {
         "Item_Weight": 18.85,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB52": {
         "Item_Weight": 17.75,
@@ -6792,7 +6792,7 @@
     "FDO31": {
         "Item_Weight": 6.76,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDP57": {
         "Item_Weight": 17.5,
@@ -6807,7 +6807,7 @@
     "FDW58": {
         "Item_Weight": 20.75,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCL07": {
         "Item_Weight": 13.85,
@@ -6857,7 +6857,7 @@
     "FDN24": {
         "Item_Weight": 14.1,
         "Item_Type": "Baking Goods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "DRH11": {
         "Item_Weight": 5.98,
@@ -6927,7 +6927,7 @@
     "FDF58": {
         "Item_Weight": 13.3,
         "Item_Type": "Snack Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB47": {
         "Item_Weight": 8.8,
@@ -7012,7 +7012,7 @@
     "NCX53": {
         "Item_Weight": 20.1,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCN30": {
         "Item_Weight": 16.35,
@@ -7032,7 +7032,7 @@
     "FDR39": {
         "Item_Weight": 20.35,
         "Item_Type": "Meat",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCG55": {
         "Item_Weight": 16.25,
@@ -7182,7 +7182,7 @@
     "FDA55": {
         "Item_Weight": 17.2,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDA19": {
         "Item_Weight": 7.52,
@@ -7192,7 +7192,7 @@
     "FDF59": {
         "Item_Weight": 12.5,
         "Item_Type": "Starchy Foods",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDJ46": {
         "Item_Weight": 11.1,
@@ -7327,12 +7327,12 @@
     "NCQ30": {
         "Item_Weight": 7.725,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDG32": {
         "Item_Weight": 19.85,
         "Item_Type": "Fruits and Vegetables",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDK32": {
         "Item_Weight": 16.25,
@@ -7362,7 +7362,7 @@
     "NCJ19": {
         "Item_Weight": 18.6,
         "Item_Type": "Others",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCI06": {
         "Item_Weight": 11.3,
@@ -7452,7 +7452,7 @@
     "FDY50": {
         "Item_Weight": 5.8,
         "Item_Type": "Dairy",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDE57": {
         "Item_Weight": 9.6,
@@ -7470,7 +7470,7 @@
         "Item_Fat_Content": "Low Fat"
     },
     "FDE52": {
-        "Item_Weight": 10.395,
+        "Item_Weight": NaN,
         "Item_Type": "Dairy",
         "Item_Fat_Content": "Regular"
     },
@@ -7552,7 +7552,7 @@
     "NCQ17": {
         "Item_Weight": 10.3,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCO53": {
         "Item_Weight": 16.2,
@@ -7587,7 +7587,7 @@
     "DRG36": {
         "Item_Weight": 14.15,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "NCD31": {
         "Item_Weight": 12.1,
@@ -7637,7 +7637,7 @@
     "NCT53": {
         "Item_Weight": 5.4,
         "Item_Type": "Health and Hygiene",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "low fat"
     },
     "FDP21": {
         "Item_Weight": 7.42,
@@ -7652,7 +7652,7 @@
     "DRC49": {
         "Item_Weight": 8.67,
         "Item_Type": "Soft Drinks",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "FDB10": {
         "Item_Weight": 10.0,
@@ -7695,7 +7695,7 @@
         "Item_Fat_Content": "Low Fat"
     },
     "FDQ60": {
-        "Item_Weight": 6.195,
+        "Item_Weight": NaN,
         "Item_Type": "Baking Goods",
         "Item_Fat_Content": "Regular"
     },
@@ -7742,7 +7742,7 @@
     "FDN51": {
         "Item_Weight": 17.85,
         "Item_Type": "Meat",
-        "Item_Fat_Content": "Regular"
+        "Item_Fat_Content": "reg"
     },
     "FDB46": {
         "Item_Weight": 10.5,
@@ -7782,7 +7782,7 @@
     "NCF55": {
         "Item_Weight": 6.675,
         "Item_Type": "Household",
-        "Item_Fat_Content": "Low Fat"
+        "Item_Fat_Content": "LF"
     },
     "NCW30": {
         "Item_Weight": 5.21,
